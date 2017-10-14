@@ -1,0 +1,48 @@
+.root{
+    -fx-background-color:#90c3f4
+}
+#Title{
+    -fx-font-weight:bold	
+}
+#closeBtn{
+    -fx-background-image: url('pictures/close.png');
+    -fx-background-color:transparent;
+    -fx-border-width:0.0;
+    -fx-background-size: 25px;
+    -fx-background-position: center; 
+}
+#closeBtn:hover{
+    -fx-background-image: url('pictures/close_btn.png');
+    -fx-background-color:transparent;
+    -fx-border-width:0.0;
+    -fx-background-size: 25px;
+    -fx-background-position: center;
+}
+#maxBtn{
+    -fx-background-image: url('pictures/max.png');
+    -fx-background-color:transparent;
+    -fx-border-width:0.0;
+    -fx-background-size: 25px;
+    -fx-background-position: center;
+}
+#maxBtn:hover{
+    -fx-background-image: url('pictures/max_btn.png');
+    -fx-background-color:transparent;
+    -fx-border-width:0.0;
+    -fx-background-size: 25px;
+    -fx-background-position: center;
+}
+#minBtn{
+    -fx-background-image: url('pictures/min_btn.png');
+    -fx-background-color:transparent;
+    -fx-border-width:0.0;
+    -fx-background-size: 25px;
+    -fx-background-position: center; 
+}
+#minBtn:hover{
+     -fx-background-image: url('pictures/min.png');
+    -fx-background-color:transparent;
+    -fx-border-width:0.0;
+    -fx-background-size: 25px;
+    -fx-background-position: center;
+}
